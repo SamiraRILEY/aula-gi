@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Ignorar arquivos do PyCharm
+.idea/
+
+# Ignorar arquivos compilados
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log
+*.log
